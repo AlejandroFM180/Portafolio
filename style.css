@@ -32,9 +32,8 @@ font-family: 'Poppins', sans-serif;
 	padding: 50px;
 	background-color: var(--cardbg);
 	
-	border-radius: var(--border)
-	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.35);
-
+    border-radius: var(--border);
+	box-shadow: 0 2px 5px rgba(1, 1, 1, 1.60);
 
 }
 
@@ -45,6 +44,7 @@ font-family: 'Poppins', sans-serif;
 
     border-radius: 50%;
     overflow: hidden; 
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.85);s
     
 
 
